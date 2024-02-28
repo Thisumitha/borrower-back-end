@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f676f10b-dc99-4864-b7c9-d422dcba3bde" name="Changes" comment="delte api">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f676f10b-dc99-4864-b7c9-d422dcba3bde" name="Changes" comment="delete api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708748968443</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete api">
+      <option name="closed" value="true" />
+      <created>1708752720288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708752720288</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +138,7 @@
     <MESSAGE value="luanch" />
     <MESSAGE value="save api" />
     <MESSAGE value="delte api" />
-    <option name="LAST_COMMIT_MESSAGE" value="delte api" />
+    <MESSAGE value="delete api" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete api" />
   </component>
 </project>
